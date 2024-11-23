@@ -19,3 +19,10 @@
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
+[epub|type~="dedication"]{
+	font-style: italic;
+	margin: 0 0 1em;
+	text-align: center;
+	text-indent: 0;
+}
