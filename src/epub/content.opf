@@ -42,8 +42,11 @@
 			&lt;p&gt;This collection of short fiction was translated by Charles Wharton Stork, who was a major promoter of Swedish literature in the interwar period.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Modern Swedish Masterpieces, 1923 -->
 		<dc:source>https://www.gutenberg.org/ebooks/64808</dc:source>
 		<dc:source>https://archive.org/details/modernswedishmas00stor</dc:source>
+		<!-- Sweden’s Best Stories, 1928 -->
+		<dc:source>https://archive.org/details/swedensbeststori0000hann</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg#List_of_works</meta>
@@ -79,6 +82,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
@@ -89,12 +93,15 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-masterless-dog.xhtml" id="a-masterless-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/archimedes-point.xhtml" id="archimedes-point.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bloom.xhtml" id="bloom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/communion.xhtml" id="communion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/margot.xhtml" id="margot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/signy.xhtml" id="signy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-blue-anchor.xhtml" id="the-blue-anchor.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-burning-city.xhtml" id="the-burning-city.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-chimney-sweepers-wife.xhtml" id="the-chimney-sweepers-wife.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-clown.xhtml" id="the-clown.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-drawing-in-india-ink.xhtml" id="the-drawing-in-india-ink.xhtml" media-type="application/xhtml+xml"/>
@@ -123,6 +130,9 @@
 		<itemref idref="the-clown.xhtml"/>
 		<itemref idref="signy.xhtml"/>
 		<itemref idref="a-masterless-dog.xhtml"/>
+		<itemref idref="margot.xhtml"/>
+		<itemref idref="the-burning-city.xhtml"/>
+		<itemref idref="archimedes-point.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
