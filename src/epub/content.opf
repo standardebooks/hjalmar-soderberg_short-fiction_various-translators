@@ -49,6 +49,8 @@
 		<dc:source>https://archive.org/details/sim_scandinavian-review_1927-06_15_6</dc:source>
 		<!-- Sweden’s Best Stories, 1928 -->
 		<dc:source>https://archive.org/details/swedensbeststori0000hann</dc:source>
+		<!-- The Parson’s Cows, 1929 -->
+		<!-- <dc:source>https://archive.org/details/sim_forum-and-century_1929-10_82_4/page/214/mode/2up</dc:source> -->
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg#List_of_works</meta>
