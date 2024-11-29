@@ -50,6 +50,8 @@
 		<dc:source>https://archive.org/details/sim_scandinavian-review_1927-06_15_6</dc:source>
 		<!-- Sweden’s Best Stories, 1928 -->
 		<dc:source>https://archive.org/details/swedensbeststori0000hann</dc:source>
+		<!-- The Parson’s Cows, 1929 -->
+		<dc:source>https://archive.org/details/sim_forum-and-century_1929-10_82_4</dc:source>
 		<meta property="se:word-count">22627</meta>
 		<meta property="se:reading-ease.flesch">78.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg#List_of_works</meta>
@@ -123,6 +125,7 @@
 		<item href="text/the-drizzle.xhtml" id="the-drizzle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fur-coat.xhtml" id="the-fur-coat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kiss.xhtml" id="the-kiss.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-parsons-cows.xhtml" id="the-parsons-cows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wages-of-sin.xhtml" id="the-wages-of-sin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -151,6 +154,7 @@
 		<itemref idref="margot.xhtml"/>
 		<itemref idref="the-burning-city.xhtml"/>
 		<itemref idref="archimedes-point.xhtml"/>
+		<itemref idref="the-parsons-cows.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
