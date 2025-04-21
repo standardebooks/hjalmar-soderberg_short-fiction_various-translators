@@ -36,6 +36,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/hjalmar-soderberg"&gt;Hjalmar Söderberg&lt;/a&gt; was a Swedish author, working from the end of the nineteenth century up until the 1930s. While most famous now for his novel &lt;i&gt;Doctor Glas&lt;/i&gt;—a favorite of Margaret Atwood’s—he also wrote other books, plays, and several collections of short stories.&lt;/p&gt;
