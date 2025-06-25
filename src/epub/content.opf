@@ -61,12 +61,12 @@
 		<meta property="file-as" refines="#author">Söderberg, Hjalmar</meta>
 		<meta property="se:name.person.full-name" refines="#author">Hjalmar Emil Fredrik Söderberg</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79056043</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056043</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Charles Wharton Stork</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Stork, Charles Wharton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Charles_Wharton_Stork</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n79145689</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n79145689</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Esther Rapp</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Rapp, Esther</meta>
