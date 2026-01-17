@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Hjalmar Söderberg. Translated by Charles Wharton Stork</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 650">
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Hjalmar Söderberg. Translated by Charles Wharton Stork and Esther Rapp</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -31,4 +31,5 @@
 	<text class="author" x="700" y="290">HJALMAR SÖDERBERG</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
 	<text class="contributor" x="700" y="540">CHARLES WHARTON STORK</text>
+	<text class="contributor" x="700" y="600">AND ESTHER RAPP</text>
 </svg>
