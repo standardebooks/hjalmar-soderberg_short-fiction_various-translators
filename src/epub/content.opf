@@ -39,7 +39,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.</dc:abstract>
+		<meta property="schema:abstract">A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/hjalmar-soderberg"&gt;Hjalmar Söderberg&lt;/a&gt; was a Swedish author, working from the end of the nineteenth century up until the 1930s. While most famous now for his novel &lt;i&gt;Doctor Glas&lt;/i&gt;—a favorite of Margaret Atwood’s—he also wrote other books, plays, and several collections of short stories.&lt;/p&gt;
 			&lt;p&gt;His stories have several common themes: human desire and self-deception, the inability for people to ever truly understand each other, and bittersweet reminiscences of the past. A Stockholm resident for most of his life, his work draws heavy inspiration from the locale and its social structures.&lt;/p&gt;
